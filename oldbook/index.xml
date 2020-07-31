@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OldBooks on Tin 博客</title>
+    <link>https://xinjianteng.github.io/oldbook/</link>
+    <description>Recent content in OldBooks on Tin 博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Sat, 20 Jun 2020 16:28:39 +0800</lastBuildDate>
+    
+	<atom:link href="https://xinjianteng.github.io/oldbook/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://xinjianteng.github.io/oldbook/about/</link>
+      <pubDate>Sat, 20 Jun 2020 16:28:39 +0800</pubDate>
+      
+      <guid>https://xinjianteng.github.io/oldbook/about/</guid>
+      <description>通晓天下只有人杰才能做到, 书生往往怀才不遇老死山林。 面貌憔悴头发花白体力衰退, 只有黄卷青灯让人忘却烦恼。 黄卷青灯——旧书卷。</description>
+    </item>
+    
+  </channel>
+</rss>

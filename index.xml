@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tin 博客</title>
+    <link>https://xinjianteng.github.io/</link>
+    <description>Recent content on Tin 博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Sat, 20 Jun 2020 16:42:17 +0800</lastBuildDate>
+    
+	<atom:link href="https://xinjianteng.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CreateHugo</title>
+      <link>https://xinjianteng.github.io/hugo/createhugo/</link>
+      <pubDate>Sat, 20 Jun 2020 16:42:17 +0800</pubDate>
+      
+      <guid>https://xinjianteng.github.io/hugo/createhugo/</guid>
+      <description>安装Hugo
+ 二进制安装（推荐：简单、快速） 到 Hugo Releases 下载对应的操作系统版本的Hugo二进制文件（hugo或者hugo.exe）  Mac下直接使用 Homebrew 安装：
+brew install hugo 2. 源码安装 源码编译安装，首先安装好依赖的工具：
+Git Mercurial Go 1.3+ (Go 1.4+ on Windows) 设置好 GOPATH 环境变量，获取源码并编译：
+$ export GOPATH=$HOME/go $ go get -v github.com/spf13/hugo 源码会下载到 $GOPATH/src 目录，二进制在 $GOPATH/bin/
+如果需要更新所有Hugo的依赖库，增加 -u 参数：
+$ go get -u -v github.com/spf13/hugo 生成站点 使用Hugo快速生成站点，比如希望生成到 /path/to/site 路径：
+$ hugo new site /path/to/site 这样就在 /path/to/site 目录里生成了初始站点，进去目录：
+$ cd /path/to/site 站点目录结构：
+▸ archetypes/ ▸ content/ ▸ layouts/ ▸ static/ config.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://xinjianteng.github.io/oldbook/about/</link>
+      <pubDate>Sat, 20 Jun 2020 16:28:39 +0800</pubDate>
+      
+      <guid>https://xinjianteng.github.io/oldbook/about/</guid>
+      <description>通晓天下只有人杰才能做到, 书生往往怀才不遇老死山林。 面貌憔悴头发花白体力衰退, 只有黄卷青灯让人忘却烦恼。 黄卷青灯——旧书卷。</description>
+    </item>
+    
+    <item>
+      <title>Flutter_介绍</title>
+      <link>https://xinjianteng.github.io/flutter/about2/</link>
+      <pubDate>Thu, 18 Jun 2020 23:25:30 +0800</pubDate>
+      
+      <guid>https://xinjianteng.github.io/flutter/about2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>基础组件</title>
+      <link>https://xinjianteng.github.io/flutter/widget/</link>
+      <pubDate>Thu, 18 Jun 2020 23:25:30 +0800</pubDate>
+      
+      <guid>https://xinjianteng.github.io/flutter/widget/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://xinjianteng.github.io/about/</link>
+      <pubDate>Thu, 18 Jun 2020 23:25:08 +0800</pubDate>
+      
+      <guid>https://xinjianteng.github.io/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>get in touch</title>
+      <link>https://xinjianteng.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xinjianteng.github.io/contact/</guid>
+      <description>Send</description>
+    </item>
+    
+  </channel>
+</rss>
